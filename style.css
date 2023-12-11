@@ -37,20 +37,53 @@ p {
 }
 
 .headesection {
+  height: 60px;
+  background: #eaf2f4;
+  border-top: 5px solid #4d4e49;
+  border-bottom: 1px solid #adbcbf;
 }
 .headeleft {
+  float: left;
+  width: 500px;
+  margin-right: 50px;
+  font-family: Georgia;
 }
 .headeleft h2 {
+  float: left;
+  font-size: 36px;
+  padding: 0px 40px 10px 20px;
+  line-height: 40px;
+  border-right: 1px solid #000;
+  margin-top: 4px;
+  color: #4d4e49;
 }
 .headeleft p {
+  float: left;
+  font-size: 16px;
+  color: #666666;
+  margin: 19px 10px 20px 10px;
 }
 
 .headeright {
+  float: right;
+  width: 289px;
+  margin-top: 20px;
+  margin-right: 20px;
 }
 
 .headeright input[type="text"] {
+  width: 235px;
+  padding: 5px;
+  background: #d5e5e8;
+  border: 1px solid #a1bcc2;
+  color: #666666;
 }
 .headeright input[type="submit"] {
+  padding: 5px;
+  background: #d5e5e8;
+  border: 1px solid #a1bcc2;
+  color: #666666;
+  cursor: pointer;
 }
 
 .menusection {
