@@ -66,7 +66,7 @@ p {
 
 .headeright {
   float: right;
-  width: 289px;
+  width: 280px;
   margin-top: 20px;
   margin-right: 20px;
 }
@@ -87,20 +87,44 @@ p {
 }
 
 .menusection {
+  background: #eaf2f4;
+  height: 59px;
 }
 .menuleft {
+  float: left;
+  width: 817px;
+  margin-right: 20px;
 }
 .menuleft ul {
 }
 .menuleft ul li {
+  float: left;
+  list-style: none;
+  display: block;
+  padding: 15px 25px;
+  font-size: 16px;
+  border-right: 1px solid #666;
+  margin: 5px 0px;
+}
+.menuleft ul li:last-child {
+  border: none;
 }
 .menuleft ul li a {
+  text-decoration: none;
+  color: #666;
 }
 .menuleft ul li a:hover {
 }
 .menuright {
+  float: right;
+  width: 143px;
+  margin-right: 20px;
+  padding: 10px 0px 10px 0px;
 }
 .menuright p {
+  margin: 0px;
+  color: #666;
+  font-size: 12px;
 }
 
 .bannersection {
