@@ -88,7 +88,7 @@ p {
 
 .menusection {
   background: #eaf2f4;
-  height: 59px;
+  height: 45px;
 }
 .menuleft {
   float: left;
@@ -101,7 +101,7 @@ p {
   float: left;
   list-style: none;
   display: block;
-  padding: 15px 25px;
+  padding: 8px 25px;
   font-size: 16px;
   border-right: 1px solid #666;
   margin: 5px 0px;
@@ -119,7 +119,7 @@ p {
   float: right;
   width: 143px;
   margin-right: 20px;
-  padding: 10px 0px 10px 0px;
+  margin-top: 3px;
 }
 .menuright p {
   margin: 0px;
