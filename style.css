@@ -128,20 +128,49 @@ p {
 }
 
 .bannersection {
+  background: #049bac;
+  padding: 50px 20px 50px 20px;
+  border-top: 2px solid #116fa6;
+  border-bottom: 2px solid #116fa6;
 }
 .bannerleft {
+  float: left;
+  width: 470px;
+  margin-right: 40px;
 }
 
 .bannerleft h2 {
+  color: #fff;
+  font-size: 40px;
+  line-height: 40px;
+  font-family: Georgia;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #fff;
 }
+
 .bannerleft p {
+  font-size: 12px;
+  font-family: Verdana;
+  margin-bottom: 18px;
+  margin-top: 20px;
+  color: #fff;
 }
 
 .bannerlink {
 }
 .banlink {
+  width: 160px;
+  background: #fff;
+  float: left;
+  margin-right: 60px;
+  padding: 10px 20px;
 }
 .banlink a {
+  color: #333333;
+  text-align: center;
+  font-family: Georgia;
+  font-size: 22px;
+  font-weight: normal;
 }
 .banlink a:hover {
 }
@@ -149,6 +178,8 @@ p {
 }
 
 .bannerright img {
+  width: 450px;
+  height: 250px;
 }
 
 .servicesection {
