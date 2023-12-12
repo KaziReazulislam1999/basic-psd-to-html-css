@@ -151,7 +151,7 @@ p {
 .bannerleft p {
   font-size: 12px;
   font-family: Verdana;
-  margin-bottom: 18px;
+  margin-bottom: 38px;
   margin-top: 20px;
   color: #fff;
 }
@@ -178,8 +178,10 @@ p {
 }
 
 .bannerright img {
-  width: 450px;
+  width: 430px;
   height: 250px;
+  background: #fff;
+  border: 10px solid #fff;
 }
 
 .servicesection {
