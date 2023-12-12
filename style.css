@@ -135,7 +135,7 @@ p {
 }
 .bannerleft {
   float: left;
-  width: 470px;
+  width: 466px;
   margin-right: 40px;
 }
 
@@ -178,10 +178,11 @@ p {
 }
 
 .bannerright img {
-  width: 430px;
+  width: 428px;
   height: 250px;
   background: #fff;
-  border: 10px solid #fff;
+  padding: 10px;
+  border: 1px solid #116fa6;
 }
 
 .servicesection {
