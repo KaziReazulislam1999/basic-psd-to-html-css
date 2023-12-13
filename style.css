@@ -397,14 +397,24 @@ p {
 .samefooter p {
 }
 .footerbottom {
+  background: #252526;
+  color: #fff;
+  padding: 20px;
+  border-top: 2px solid #3d3d3d;
+  font-size: 12px;
+  font-family: verdana;
 }
 .footleft {
+  float: left;
 }
 
 .footleft p {
+  margin-bottom: 0px;
 }
 
 .footright {
+  float: right;
 }
 .footright p {
+  margin-bottom: 0px;
 }
