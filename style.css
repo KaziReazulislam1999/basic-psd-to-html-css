@@ -338,6 +338,8 @@ p {
   font-size: 12px;
   letter-spacing: 0.14px;
   color: #666;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
 
 .footertop {
