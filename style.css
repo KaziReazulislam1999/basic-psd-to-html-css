@@ -186,23 +186,57 @@ p {
 }
 
 .servicesection {
+  background: #eaf2f4;
+  padding: 30px 20px;
 }
-
+.allservice {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 30px;
+}
 .service {
+  width: 238px;
+  float: left;
+  border: 1px solid #cdd8d8;
 }
 .service h2 {
+  font-size: 22px;
+  font-family: Georgia;
+  padding: 20px 35px;
+  color: #049bac;
+  background: #f1f7f7;
+  border-bottom: 1px solid #cdd8d8;
+  text-transform: uppercase;
 }
 
 .service h3 {
+  width: 220px;
+  font-size: 22px;
+  font-family: Georgia;
+  color: #666;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #475c5f;
+  padding-bottom: 5px;
 }
 .service p {
+  margin-left: 10px;
+  font-size: 12px;
+  font-family: verdana;
+  line-height: 14.4px;
 }
 .service a {
 }
 .service a:hover {
 }
 
+.readmore {
+  padding: 10px;
+  float: right;
+}
+
 .contentsection {
+  background: #eaf2f4;
 }
 .contentleft {
 }
