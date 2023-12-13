@@ -343,21 +343,43 @@ p {
 }
 
 .footertop {
+  background: #2c2c2d;
+  padding: 30px 20px 25px 20px;
+  color: #98989a;
 }
 
 .samefooter {
+  width: 300px;
+  float: left;
+  margin-right: 20px;
 }
 .samefooter h2 {
+  font-size: 22px;
+  font-family: Georgia;
+  border-bottom: 1px solid #98989a;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 .samefooter p {
+  margin-bottom: 10px;
 }
 
 .samefooter input[type="text"] {
+  width: 245px;
+  height: 25px;
+  margin-bottom: 10px;
 }
 .samefooter input[type="submit"] {
+  padding: 5px 10px 5px 10px;
+  border: none;
+  font-size: 14px;
+  font-family: verdana;
+  color: #000;
 }
 
 .samefooter a {
+  color: #049bac;
+  text-decoration: none;
 }
 .samefooter a:hover {
 }
@@ -366,6 +388,7 @@ p {
 }
 
 .samefooter ul li {
+  margin-bottom: 10px;
 }
 .samefooter ul li a {
 }
